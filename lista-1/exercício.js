@@ -1,1 +1,14 @@
+const readline = require('readline');
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+rl.question("Digite um número: ", (numero) => {
+  const resultado = Number(numero) + 5;
+  console.log("O resultado da soma é:", resultado);
+  rl.close();
+});
+
 
