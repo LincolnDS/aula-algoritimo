@@ -1,0 +1,13 @@
+const input = require('readline-sync');
+
+let num1 = input.questionInt("Digite o primeiro número: ");
+let num2 = input.questionInt("Digite o segundo número: ");
+let num3 = input.questionInt("Digite o terceiro número: ");
+
+let resultado1 = num1 + 10;
+let resultado2 = num2 - 5;
+let resultado3 = num3 * 2;
+
+console.log("let num1 + 10 = " + resultado1);
+console.log("let num2 - 5 = " + resultado2);
+console.log("let num3 * 2 = " + resultado3);
