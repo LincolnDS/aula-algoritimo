@@ -1,0 +1,10 @@
+let num = input.questionInt("Digite um número: ");
+
+let var1 = num / 2;
+let var2 = num / 2;
+
+var1 = var1 + 3;
+var2 = var2 + 5;
+
+console.log("let var1 = " + var1);
+console.log("let var2 = " + var2);
