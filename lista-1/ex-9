@@ -1,0 +1,6 @@
+let num = input.questionInt("Digite um número: ");
+
+let subtracao = num - 3;
+let soma = subtracao + num;
+
+console.log("let (num - 3) + num = " + soma);
