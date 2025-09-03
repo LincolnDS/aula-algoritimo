@@ -1,6 +1,6 @@
-import input from 'readline-sync'
-let num1 = input.questionINT("digite um numero:")
-let num2 = num1 - 10
-if(num2>3){
-    console.log("num2:", num2)
-}
+Let n1= input question ('digite o número 1' (n1) -->');
+Let n2 = input question ('digite o número 2' (n2) -->');
+Resp1 = n1*2
+Resp2= n2/2
+Console.log ("resp1: ", resp1);
+Console.log("resp2: ", resp2);

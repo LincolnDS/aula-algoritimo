@@ -1,4 +1,0 @@
-Let n2 = input questionit ("digite o número 2 (n2)-->");
-N1 = n1 + 2
-Console.log ("resp" =, n1);
-Console.log ("resp" =, n2);

@@ -1,4 +1,0 @@
-Let num1 = input.questionINT ("digite numero1: ");
-let num2 = input.questionINT ("digite numero1: ");
-let resultado = (num1 - num2) + 10;
-console.log ("resultado" , resultado );

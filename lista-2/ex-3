@@ -1,7 +1,4 @@
-import input from 'readline-syn'
-let num1 = input.questionINT("digite um numero:")
-let num2 = num1 + 5
-if(num2>10){
-    console.log("num2:", num2)
-    
-}
+Let n2 = input questionit ("digite o número 2 (n2)-->");
+N1 = n1 + 2
+Console.log ("resp" =, n1);
+Console.log ("resp" =, n2);
