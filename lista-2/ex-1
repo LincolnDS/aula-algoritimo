@@ -1,0 +1,8 @@
+import input from 'readline-sync'
+let idade = input.questionINT("digite sua idade")
+if (idade>17){
+    console.log("pode tirar habilitaçao")
+
+}else{
+    console.log("nao pode tirar habilitaçao")
+}
