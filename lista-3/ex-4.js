@@ -1,7 +1,7 @@
 import input from 'readline-sync'
-let num1 = input.questionINT("digite o numero1")
-let num2 = input.questionINT("digite o numero2")
-let num3 = input.questionINT("digite o numero3")
+let num1 = input.questionInt("digite o numero1")
+let num2 = input.questionInt("digite o numero2")
+let num3 = input.questionInt("digite o numero3")
 
 let resp1 = num1 + 5
 let resp2 = num2 + 5 
