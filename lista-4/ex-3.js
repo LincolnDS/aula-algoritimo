@@ -5,3 +5,4 @@ if(n1>10){
 }
 else{
     console.log ("numero menor ou igual a 10:", n1)
+}
